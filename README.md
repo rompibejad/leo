@@ -38,7 +38,7 @@ See `./run.sh` for an example.
 
 
 ### Using an input file.
-1. Modify `inputs/tictactoe.in` with the desired inputs.
+1. Modify `inputs/tictactoe.in` with the desired inputs.ad
 2. Run
 ```bash
 leo run <function_name>
