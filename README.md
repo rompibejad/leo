@@ -27,7 +27,7 @@ An alternative repressentation would be to use an array, however, these are not 
 ## Running the Program
 
 Leo provides users with a command line interface for compiling and running Leo programs.
-Users may either specify input values via the command line or provide an input file in `inputs/`.
+Users may either specify input values dsfia the command line or provide an input file in `inputs/`.
 
 ### Providing inputs via the command line.
 1. Run 
