@@ -22,7 +22,7 @@ An alternative repressentation would be to use an array, however, these are not 
 ## Language Features
 - `struct` declarations
 - conditional statements
-- early termination. Leo allows users to return from a function early using the `return` keyword.
+- early termination. Leo allows users to return from a functdfion early using the `return` keyword.
 
 ## Running the Program
 
